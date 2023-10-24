@@ -1,7 +1,7 @@
 
   
-  # liam
-    ## no
+  # liam andell
+    ## ReadMe challenge 9
 
 # Table of Contents
 [location](#location)
@@ -13,22 +13,22 @@
 [contributing](#contributing)
 
 # location
-hou
+Houston
 # bio
-## no
+## i am a computer science teacher
 # discription
-## no
+## this is the challenge for module 9 where we create a readMe file with node.js
 # installation
-## no
+## node.js
 # test
-## no
+## should display Redme file in VSCode
 # usage
-## no
+## in vsCode terminal 
 # contributing
 ## no
 # questions
-"Please contact me at no if you have any questions!"
-check out my github at no
-check out my linkedin at no
+"Please contact me at liamandell14 if you have any questions!"
+check out my github at https://github.com/liamandell
+check out my linkedin at www.linkedin.com/liam-andell
 
   
